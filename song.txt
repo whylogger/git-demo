@@ -3,11 +3,3 @@ wall of shields
 standing strong
 for a long
 down for all
-1
-sword and spear
-wall of shields
-some content
-<<<<<<< HEAD
-and here
-=======
->>>>>>> 4b1c175b0a4f84726262ede70030d9a29d1cb9d6
